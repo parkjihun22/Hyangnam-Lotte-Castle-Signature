@@ -151,7 +151,7 @@ const page = ({
 export const seoPages = {
   home: page({
     path: "/",
-    title: "화성 향남 롯데캐슬 시그니처 | 1,542세대 분양정보",
+    title: "화성 향남 롯데캐슬 시그니처",
     description: siteSeo.defaultDescription,
     menu: "홈",
     priority: 1,
